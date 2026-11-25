@@ -1,0 +1,16 @@
+student_grade_system.py:6:1: F401 'json' imported but unused
+student_grade_system.py:14:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:18:80: E501 line too long (81 > 79 characters)
+student_grade_system.py:21:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:24:5: E722 do not use bare 'except'
+student_grade_system.py:27:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:28:5: F841 local variable 'grace_marks' is assigned to but never used
+student_grade_system.py:29:34: E711 comparison to None should be 'if cond is None:'
+student_grade_system.py:31:80: E501 line too long (83 > 79 characters)
+student_grade_system.py:37:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:39:5: F841 local variable 'avg_score' is assigned to but never used
+student_grade_system.py:43:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:46:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:49:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:55:1: E302 expected 2 blank lines, found 1
+student_grade_system.py:66:1: E305 expected 2 blank lines after class or function definition, found 1
